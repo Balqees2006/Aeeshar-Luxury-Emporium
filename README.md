@@ -1,0 +1,3 @@
+Aeeshar Luxury Emporium is a scarf bussiness that provide stylish and quality scarvess to customers. this projects involve developing a responsive website to shpwcase the bussiness and it's scarf collections online.
+The website contains Home,About,Collection, and Contact pages. it focuses mainly on displaying products and provising customers with business and contact information.
+HTML was used to structure the website, CSS was used for styling and responsiveness, and javascript was used to add functionalit and interactivity
